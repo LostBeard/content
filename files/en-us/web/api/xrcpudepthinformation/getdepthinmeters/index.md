@@ -27,7 +27,7 @@ getDepthInMeters(x, y)
 
 ### Return value
 
-None ({{jsxref("undefined")}}).
+Returns the depth in meters at (x, y) in normalized view coordinates. ({{jsxref("float")}}).
 
 ### Exceptions
 
